@@ -1,5 +1,4 @@
 require 'sinatra'
 get '/' do
-  "Hello World!"
-  "Hello REA Group"
+  "Hello World! Hello REA Group"
 end
