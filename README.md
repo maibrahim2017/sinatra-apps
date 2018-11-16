@@ -1,6 +1,3 @@
-REA Systems Engineer practical task
-===================================
-
 Provision a new application server and deploy the application in this Git repository
 ------------------------------------------------------------------------------------
 - Write configuration-as-code recipes (using your preferred orchestration software) to:
